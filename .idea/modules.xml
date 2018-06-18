@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jeguitar.iml" filepath="$PROJECT_DIR$/.idea/modules/jeguitar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jeguitar_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jeguitar_main.iml" group="jeguitar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jeguitar_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jeguitar_test.iml" group="jeguitar" />
+    </modules>
+  </component>
+</project>
